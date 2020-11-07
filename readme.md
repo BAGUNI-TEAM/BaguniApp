@@ -5,4 +5,4 @@
 ~~~
 2020-11-07 - 스플래시 화면 제작 
 ~~~
-![splash.gif](splash.gif)
+![splash.gif](/img/splash.gif)
