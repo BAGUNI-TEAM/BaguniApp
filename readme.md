@@ -8,3 +8,4 @@
 ![splash.gif](/img/splash.gif)
 
 ~~~
+로그인 레이아웃 변경
