@@ -79,7 +79,7 @@
         android:id="@+id/register"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:enabled="false"
+        android:enabled="true"
         android:textColor="#FFFFFF"
         android:textSize="30sp"
         android:shadowColor="#000000"
